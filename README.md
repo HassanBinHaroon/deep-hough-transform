@@ -9,5 +9,5 @@ Click on the following link.
          
          then Run all.
 
-         https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb
+https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb
 
