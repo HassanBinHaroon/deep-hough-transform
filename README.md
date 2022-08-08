@@ -10,5 +10,14 @@ Click on the following link.
 
 ### Must Do After Clicking 
 
-![Change runtime type](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/im1.png)
+#### Change runtime type
 
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/im1.png)
+
+#### Select GPU
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/im2.png)
+
+#### Run All
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/im3.png)
