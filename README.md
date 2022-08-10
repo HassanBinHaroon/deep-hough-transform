@@ -22,3 +22,23 @@ https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/bl
 #### >>>>> Run All
 
 ![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im3.png)
+
+## Training on NKL Dataset on Google Colab
+
+
+Click on the following link.
+
+https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb
+### Must Do After Clicking 
+
+#### >>>>> Change runtime type
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im1.png)
+
+#### >>>>> Select GPU
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im2.png)
+
+#### >>>>> Run All
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im3.png)
