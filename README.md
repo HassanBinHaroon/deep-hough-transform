@@ -3,6 +3,12 @@
 
 This is the implementation of https://github.com/Hanqer/deep-hough-transform on Google Colab. The paper "Deep Hough Transform for Semantic Line Detection" (ECCV 2020, PAMI 2021).
 
+## Table Of Contents
+
+   ### Testing of pre-trained model on Google Colab
+   ### Training on NKL Dataset on Google Colab
+   ### Training on SEL Dataset on Google Colab
+
 ## Testing of pre-trained model on Google Colab
 
 
