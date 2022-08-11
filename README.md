@@ -5,9 +5,9 @@ This is the implementation of https://github.com/Hanqer/deep-hough-transform on 
 
 ## Table Of Contents
 
-   ### Testing of pre-trained model on Google Colab
-   ### Training on NKL Dataset on Google Colab
-   ### Training on SEL Dataset on Google Colab
+   ### >    Testing of pre-trained model on Google Colab
+   ### >    Training on NKL Dataset on Google Colab
+   ### >    Training on SEL Dataset on Google Colab
 
 ## Testing of pre-trained model on Google Colab
 
