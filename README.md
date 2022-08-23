@@ -5,11 +5,11 @@ This is the implementation of https://github.com/Hanqer/deep-hough-transform on 
 
 # Demo 1
 
-![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo1.png)
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo1.jpg)
 
 # Demo 2
 
-![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo2.png)
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo2.jpg)
 
 ## Table Of Contents
 
