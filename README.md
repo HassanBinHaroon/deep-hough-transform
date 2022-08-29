@@ -3,6 +3,10 @@
 
 This is the implementation of https://github.com/Hanqer/deep-hough-transform on Google Colab. The paper "Deep Hough Transform for Semantic Line Detection" (ECCV 2020, PAMI 2021).
 
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb)
+
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb)
+
 # Demo 1
 
 ![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo1.jpg)
