@@ -3,6 +3,12 @@
 
 This is the implementation of https://github.com/Hanqer/deep-hough-transform on Google Colab. The paper "Deep Hough Transform for Semantic Line Detection" (ECCV 2020, PAMI 2021).
 
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb) Testing of pre-trained model on Google Colab
+
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb) Training on NKL Dataset on Google Colab
+
+3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb) Training on SEL Dataset on Google Colab
+
 # Demo 1
 
 ![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/demo1.jpg)
@@ -18,8 +24,6 @@ This is the implementation of https://github.com/Hanqer/deep-hough-transform on 
    ### >    Training on SEL Dataset on Google Colab
 
 ## Testing of pre-trained model on Google Colab
-
-1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform.ipynb) Testing of pre-trained model on Google Colab
 
 Click on the following link.
 
@@ -40,8 +44,6 @@ https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/bl
 
 ## Training on NKL Dataset on Google Colab
 
-2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb) Training on NKL Dataset on Google Colab
-
 Click on the following link.
 
 https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_NKL.ipynb
@@ -60,9 +62,6 @@ https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/bl
 ![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im3.png)
 
 ## Training on SEL Dataset on Google Colab
-
-
-3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/deep-hough-transform/blob/main/Hanqer_Deep_Hough_Transform_Train_SEL.ipynb) Training on SEL Dataset on Google Colab
 
 Click on the following link.
 
